@@ -4,8 +4,8 @@ On Zabbix you can send an alert through a SMS gateway. This tutorial explains ho
 
 What you'll need:
 
-1. Curl;
-2. ClickSend API Key; you can get that here: https:/clicksend.com/signup
+1. Curl
+2. ClickSend API Key - you can get that here: https://clicksend.com/signup
 3. Credits in your account.
 
 How to add the script to Zabbix (Tested on Zabbix Server 3.4):
